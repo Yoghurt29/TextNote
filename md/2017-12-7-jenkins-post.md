@@ -1,14 +1,14 @@
-#txcloud
+# txcloud
 	123.206.205.101
 	64352e7e1afdc43596b5f199b0ac5fdb
 	BBBBBDJe02TX1z
 	password8
 
-##linux
+## linux
 	root
 	password8
 
-##jenkins 
+## jenkins 
 	8000
 	91308ba5ee0542a1bdced68d184479f8 
 	Trulon
